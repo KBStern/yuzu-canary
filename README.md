@@ -1,3 +1,17 @@
+# Merge log
+
+Scroll down for the original README.md!
+
+Base revision: 01b3bf119e559e6dac6f6a2a3eea5bb94a7136dd
+
+|PR Number|Commit|Title|Author|Merge Success|
+|----|----|----|----|----|
+
+
+End of merge log. You can find the original README.md below the break.
+
+------
+
 yuzu emulator
 =============
 [![Travis CI Build Status](https://travis-ci.org/yuzu-emu/yuzu.svg?branch=master)](https://travis-ci.org/yuzu-emu/yuzu)
